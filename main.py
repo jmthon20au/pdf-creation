@@ -14,7 +14,7 @@ import arabic_reshaper
 from bidi.algorithm import get_display
 
 # التوكن الخاص بك
-TOKEN = "6418845303:AAFsJChPM-D-Ka4sqYNRzCpNxVMDzjdIK1g"
+TOKEN = "8678080057:AAHGkanpLQCA20JhhOJ6kxtRVuCxY9oJc6o"
 bot = telebot.TeleBot(TOKEN)
 import json
 import os
